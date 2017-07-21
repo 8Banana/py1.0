@@ -1,0 +1,10 @@
+*.a
+*.o
+Makefile
+Modules/Makefile.pre
+Modules/Setup
+Modules/config.c
+Parser/pgen
+config.h
+config.status
+python
