@@ -3,7 +3,6 @@
 This repository contains a Python 1.0 for those who can't find
 [this download page](http://legacy.python.org/download/releases/src/)
 and rename the `getline()` function to something else in
-
 [Objects/fileobject.c](Objects/fileobject.c). Most of the content in
 this repository comes from `python1.0.1.tar.gz` on the page linked above.
 
